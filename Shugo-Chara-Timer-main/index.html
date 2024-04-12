@@ -5,50 +5,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 
-
+ 
   <style>
-    body{
-    }
-    .section {
+.section {
+			display: flex;
       background-color: #ffb7c3;
-      padding: 10px;
-      width: fit-content;
-
+			flex-direction: column;
+			align-items: center;
+			justify-content: flex-start;
+			padding: 3mm;
+			overflow: hidden;
     }
-#display{
-  margin-bottom: 5px;
-    font-size: 30px;
-    font-family: monospace;
-    color: #f14965;
-}
-    .section input {
-      font-size: 8px;
-        color: #2D2D32;
+    #display {
+			font-size: 20mm;
+			font-weight: bold;
+      font-family: cookie;
+			color: deeppink;
+			margin-top: 2mm;
+			margin-bottom: 2mm;
+		}
+    
+.section input {
+      font-size: 3mm;
+        background-color: transparent;
+        font-family: cookie;
+        color: deeppink;
         text-align: center;
-        border: 1px solid lightgreen;
-        width: 30px;
-        padding: 5px 1px;
-        margin-right: 4px;
+        border: 0.1mm solid gold;
+        width: 40px;
+        padding: 3px 3px;
+        margin-right: 2px;
        display: inline-block;
+  
     }
-
     .buttons {
         display: flex;
         flex-direction: row;
     }
 
         .buttons button {
-            margin-right: 4px;
-
-            padding: 5px 10px;
-
-            background-color: #d8d8d8;
-            border: none;
-
+            font-size: 14px;
+			      padding: 2px 3px;
+			      border: none;
             color: white;
-            font-size: 15px;
-
-            cursor: pointer;
+			      border-radius: 1px;
+			      margin: 1px;
+			      cursor: pointer;
             outline: none;
 
             transition: 0.1s;
@@ -60,14 +62,15 @@
 
             .buttons button:last-child {
                 margin-right: 0;
+             color: white;
             }
 
             .buttons button:nth-child(3){
-                background-color: #a9def9;
+                background-color: limegreen;
             }
 
             .buttons button:nth-child(4){
-                background-color: #ffef9f;
+                background-color: deepskyblue;
             }
 
   </style>
