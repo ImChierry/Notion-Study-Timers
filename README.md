@@ -2,17 +2,17 @@
 
 <h3>Basic</h3>
 
-<a href="https://imchierry.github.io/Notion-Study-Timers/Timer-main"> Main </a>
+<•> <a href="https://imchierry.github.io/Notion-Study-Timers/Timer-main"> Main </a>
 
-https://imchierry.github.io/Notion-Study-Timers/Cosy-timer-main
+<a href="https://imchierry.github.io/Notion-Study-Timers/Cosy-timer-main"> Cosy </a>
 
-https://imchierry.github.io/Notion-Study-Timers/Shugo-Chara-Timer-main
+<a href="https://imchierry.github.io/Notion-Study-Timers/Shugo-Chara-Timer-main"> Shugo Chara </a>
 
-https://imchierry.github.io/Notion-Study-Timers/galaxy-timer-main
+<a href="https://imchierry.github.io/Notion-Study-Timers/galaxy-timer-main"> Galaxy </a>
 
 
 <h3> Hogwarts </h3>
 
-https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms
+<•> <a href="https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms"> Hogwarts </a>
 
-https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms/Griffondor
+<•> <a href="https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms/Griffondor"> Griffondor </a>
