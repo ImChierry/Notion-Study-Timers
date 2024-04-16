@@ -17,4 +17,4 @@
 
 • <a href="https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms/Griffondor"> Gryffindor </a>
 
-• <a href="https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms/Slytherin> Slytherin </a>
+• <a href="https://imchierry.github.io/Notion-Study-Timers/Hogwarts%20rooms/Slytherin"> Slytherin </a>
