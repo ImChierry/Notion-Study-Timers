@@ -10,6 +10,8 @@
 
 • <a href="https://imchierry.github.io/Notion-Study-Timers/galaxy-timer-main"> Galaxy </a>
 
+• <a href="https://imchierry.github.io/Notion-Study-Timers/Japan"> Japan </a>
+
 
 <h3> Hogwarts </h3>
 
